@@ -1,0 +1,6 @@
+{
+  "name": "ENQOPAZYON Ichimoku Gold Dashboard",
+  "description": "Advanced Ichimoku equilibrium strategy for Gold trading with Wave Theory calculations and Master Index analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
